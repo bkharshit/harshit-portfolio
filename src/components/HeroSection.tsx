@@ -69,7 +69,7 @@ export const HeroSection: React.FC = () => {
             >
               <img
                 src="/harshit-portrait-transparent.png"
-                alt="Harshit - Software Engineer"
+                alt="Harshit BK - Software Engineer at Lowe's"
                 className="w-full h-auto object-contain drop-shadow-2xl pointer-events-none select-none"
               />
             </Magnet>
