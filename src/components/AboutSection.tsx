@@ -68,7 +68,7 @@ export const AboutSection: React.FC = () => {
         <FadeIn delay={0.2} y={30} className="w-full flex justify-center">
           <AnimatedText text="I'm a Software Engineer at Lowe's who likes turning complex problems into simpler, more efficient systems.
 
-My engineering experience spans full-stack development, automation, distributed systems, Kubernetes, messaging platforms, and enterprise production infrastructure. Over the past few years, I've focused on building scalable applications and high-throughput backend infrastructure—optimizing how systems scale, where they break, and how to make them resilient.
+My engineering experience spans full-stack development, distributed systems, Kubernetes, messaging platforms, automation, and enterprise production infrastructure. Over the past few years, I've focused on building scalable applications and high-throughput backend infrastructure optimizing how systems scale, where they break, and how to make them resilient.
 
 Now I'm exploring AI engineering and agentic systems, bringing that same engineering mindset to building software that can reason, automate workflows, and work alongside people.
 
